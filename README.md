@@ -1,2 +1,2 @@
 # Tidy-Tuesday
-Data Vizualisations for #TidyTuesday
+Data Vizualisations using publicly available datasets on R
