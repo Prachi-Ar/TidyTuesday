@@ -8,5 +8,5 @@ Data visualisations using weekly datasets put out by [R for Data Science](https:
 
 [Week 30](https://github.com/Prachi-Ar/TidyTuesday/tree/main/Week30) : Top-10 trending Netflix shows across countries. 
 
-[Code](https://github.com/Prachi-Ar/TidyTuesday/blob/main/Week30/netflix_code.R)
+[Code](https://github.com/Prachi-Ar/TidyTuesday/tree/main/Week30/netflix.R)
 ![Week_30](https://github.com/Prachi-Ar/TidyTuesday/blob/main/Week30/netflix_plot.png)
