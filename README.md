@@ -1,5 +1,5 @@
 # Data Viz
-Data visualisations using weekly datasets put out by [R for Data Science](https://github.com/rfordatascience/tidytuesday) as part of the #RStats community.
+Data visualisations using weekly datasets put out by [R for Data Science](https://github.com/rfordatascience/tidytuesday) as part of the #RStats community using statistical software R.
 
 [Week 26](https://github.com/Prachi-Ar/TidyTuesday/tree/main/Week26) : Analysing the gender pay gap in the UK with a focus on Oxford and Cambridge universities. 
 
