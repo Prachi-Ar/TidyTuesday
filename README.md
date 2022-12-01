@@ -1,5 +1,5 @@
 # Data Viz
-Data visualisations using weekly datasets put out by [R for Data Science](https://github.com/rfordatascience/tidytuesday) as part of the #RStats community using statistical software R.
+Data visualisations that I've created using weekly datasets put out by [R for Data Science](https://github.com/rfordatascience/tidytuesday) as part of the #RStats community using statistical software R.
 
 [Week 30](https://github.com/Prachi-Ar/TidyTuesday/tree/main/Week30) : Top-10 trending Netflix shows across countries. 
 
